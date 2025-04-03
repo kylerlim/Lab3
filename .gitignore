@@ -1,0 +1,10 @@
+// preprocessed source files
+*.i 
+// assembler source files
+*.s
+// object files
+*.o
+// executables
+*.exe
+
+.DS_Store
